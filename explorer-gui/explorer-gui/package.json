@@ -42,7 +42,7 @@
     "ngx-timeago": "^1.0.4",
     "ngx-translate-messageformat-compiler": "^4.7.0",
     "ngx-webstorage-service": "^4.1.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "rxjs": "^6.5.5",
     "set-value": "^3.0.2",
     "tslib": "^1.13.0",
