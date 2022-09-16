@@ -14,7 +14,7 @@ greenlet==0.4.15
 gunicorn==19.9.0
 idna==2.8
 jsonschema==2.6.0
-Mako==1.0.8
+Mako==1.2.2
 MarkupSafe==1.1.1
 meinheld==1.0.2
 more-itertools==6.0.0
