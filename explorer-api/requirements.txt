@@ -13,7 +13,7 @@ gunicorn==19.9.0
 idna==2.8
 importlib-metadata==0.19
 jsonschema==2.6.0
-Mako==1.0.14
+Mako==1.2.2
 MarkupSafe==1.1.1
 meinheld==1.0.2
 more-itertools==6.0.0
